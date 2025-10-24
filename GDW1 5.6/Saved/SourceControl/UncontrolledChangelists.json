@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/PlayableCharacterTest/MyCharacter.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/MetalShader.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/Plastic.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/Glass.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/C3/0GQCNADQIY9MC1IFV8WE45.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/PlayableCharacterTest/TestGameMode.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/Turf.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/Plastic1.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/LandScape.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/FirstPerson/Maps/Untitled.umap",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/13075.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/1601_m10_i311_n029_S_c10_164511620_Seamless_green_grass_vector_pattern.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/NewFolder/dirt_LayerInfo.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/NewFolder/grass_LayerInfo.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/images.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/NewFolder/path_LayerInfo.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1 5.6/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1 5.6/Content/Shaders/Plastic.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/TestShader1.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/Shaders/TestShader1.uasset",
+				"C:/Users/Joseph PC/OneDrive/Documents/GitHub/UE5-Temp-1/GDW1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}
